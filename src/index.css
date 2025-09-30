@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.box {
+    background-color: rgb(224, 77, 77);
+    background-color: rgb(77, 212, 77);
+    background-color: rgb(67, 67, 205);
+    background-color: rgb(234, 234, 137);
+    background-color: rgb(223, 102, 223);
+}
